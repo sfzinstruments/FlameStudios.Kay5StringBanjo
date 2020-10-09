@@ -1,0 +1,2 @@
+lovel=$VEL1LO  hivel=$VEL1HI
+fil_type=lpf_1p  cutoff=2000  fil_veltrack=8000

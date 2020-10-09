@@ -1,0 +1,1 @@
+These midi patterns are for preset 1. See presets list for more information.

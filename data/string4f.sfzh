@@ -1,0 +1,5 @@
+#include "data/4f26.sfzh"  lokey=48  hikey=50  pitch_keycenter=50
+#include "data/4f27.sfzh"  key=51
+#include "data/4f28.sfzh"  key=52
+#include "data/4f29.sfzh"  key=53
+#include "data/4f30.sfzh"  key=54

@@ -1,0 +1,6 @@
+#define $VEL1LO 1
+#define $VEL1HI 64
+#define $VEL2LO 65
+#define $VEL2HI 84
+#define $VEL3LO 85
+#define $VEL3HI 127

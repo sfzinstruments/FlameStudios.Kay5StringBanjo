@@ -1,0 +1,35 @@
+After all the processing:
+Samples that were not distorted are 1 dB quieter than originally.
+Samples that were distorted are 3 dB quieter than originally. This includes:
+
+[Misc]
+harmonics1
+harmonics4
+
+[String1]
+hard45
+hard46
+hard49
+hard50
+hard51
+hard52
+hard53
+hard54
+hard55
+hard57
+hard60
+
+[String3]
+hard31
+hard34
+soft31
+
+[String4]
+hard26
+hard27
+hard29
+hard30
+hard31
+soft29
+soft30
+soft31

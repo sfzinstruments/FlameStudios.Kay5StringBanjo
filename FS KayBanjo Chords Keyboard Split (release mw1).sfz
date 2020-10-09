@@ -1,0 +1,66 @@
+#include "data/velocity_ranges.sfzh"
+
+<control>
+default_path=samples/
+label_cc1=Release
+
+
+<global>
+sw_lokey=e2  sw_hikey=d#4  sw_default=e2
+ampeg_release=0.5  ampeg_release_oncc1=10
+note_polyphony=1  note_selfmask=off  off_mode=normal
+
+
+// String 5
+
+<master> #include "data/string5_tune.sfzh"  key=72
+<group> #include "data/grp_vel1.sfzh"
+#include "data/5p43.sfzh"
+<group> #include "data/grp_vel2.sfzh"
+#include "data/5p43.sfzh"
+<group> #include "data/grp_vel3.sfzh"
+#include "data/5f43.sfzh"
+
+
+// String 4
+
+<master> #include "data/string4_tune.sfzh"  key=74
+<group> #include "data/grp_vel1.sfzh"
+#include "data/string4p_chord.sfzh"
+<group> #include "data/grp_vel2.sfzh"
+#include "data/string4p_chord.sfzh"
+<group> #include "data/grp_vel3.sfzh"
+#include "data/string4f_chord.sfzh"
+
+
+// String 3
+
+<master> #include "data/string3_tune.sfzh"  key=76
+<group> #include "data/grp_vel1.sfzh"
+#include "data/string3p_chord.sfzh"
+<group> #include "data/grp_vel2.sfzh"
+#include "data/string3p_chord.sfzh"
+<group> #include "data/grp_vel3.sfzh"
+#include "data/string3f_chord.sfzh"
+
+
+// String 2
+
+<master> #include "data/string2_tune.sfzh"  key=77
+<group> #include "data/grp_vel1.sfzh"
+#include "data/string2p_chord.sfzh"
+<group> #include "data/grp_vel2.sfzh"
+#include "data/string2p_chord.sfzh"
+<group> #include "data/grp_vel3.sfzh"
+#include "data/string2f_chord.sfzh"
+
+
+// String 1
+
+<master> #include "data/string1_tune.sfzh"  key=79
+<group> #include "data/grp_vel1.sfzh"
+#include "data/string1p_chord.sfzh"
+<group> #include "data/grp_vel2.sfzh"
+#include "data/string1p_chord.sfzh"
+<group> #include "data/grp_vel3.sfzh"
+#include "data/string1f_chord.sfzh"

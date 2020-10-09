@@ -1,0 +1,21 @@
+#include "data/1p40.sfzh"  key=64
+#include "data/1p41.sfzh"  key=65
+#include "data/1p42.sfzh"  key=66
+#include "data/1p43.sfzh"  key=67  sw_lolast=d2  sw_hilast=d2
+#include "data/1p44.sfzh"  key=68
+#include "data/1p45.sfzh"  key=69
+#include "data/1p46.sfzh"  key=70
+#include "data/1p47.sfzh"  key=71
+#include "data/1p48.sfzh"  key=72
+#include "data/1p49.sfzh"  key=73
+#include "data/1p50.sfzh"  key=74
+#include "data/1p51.sfzh"  key=75
+#include "data/1p52.sfzh"  key=76
+#include "data/1p53.sfzh"  key=77
+#include "data/1p54.sfzh"  key=78
+#include "data/1p55.sfzh"  key=79
+#include "data/1p56.sfzh"  key=80
+#include "data/1p57.sfzh"  key=81
+#include "data/1p58.sfzh"  key=82
+#include "data/1p59.sfzh"  key=83
+#include "data/1p60.sfzh"  lokey=84  hikey=88  pitch_keycenter=84

@@ -1,0 +1,4 @@
+Noise level: -34.067
+120 Hz: -49.6
+
+starting at hard 50 - second freq. whine... caused by sympathetic string?
